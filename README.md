@@ -107,3 +107,11 @@ You can find the dataset via:
 sklearn.datasets.load_iris()
 
 Or download it manually from UCI Machine Learning Repository
+
+Output
+
+![Screenshot 2025-07-05 012808](https://github.com/user-attachments/assets/113dc28b-8723-4d52-8913-eff92ccc8e8c)
+
+![Screenshot 2025-07-05 012830](https://github.com/user-attachments/assets/1a9b1996-0d40-4a79-b67f-5a2b3d315571)
+
+
